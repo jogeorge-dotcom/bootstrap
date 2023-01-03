@@ -1,0 +1,29 @@
+body {
+    background: white;
+}
+
+/*
+=================================================
+MISC
+=================================================
+*/
+.quick-links i {
+    font-size: 3em;
+  }
+  .to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    font-size: 40px;
+  }
+  .nav-link {
+    color: #50a98a;
+  }
+  .btn-unique {
+    background-color: aquamarine;
+    color: #000;
+  }
+  .btn-unique:hover {
+    background-color: #50a98a;
+    color: #fff;
+  }
