@@ -4,26 +4,57 @@ body {
 
 /*
 =================================================
-MISC
+GO TO TOP BUTTON
 =================================================
 */
-.quick-links i {
-    font-size: 3em;
-  }
-  .to-top {
+
+.to-top {
     position: fixed;
     bottom: 30px;
     right: 30px;
     font-size: 40px;
   }
-  .nav-link {
-    color: #50a98a;
-  }
-  .btn-unique {
-    background-color: aquamarine;
+.btn-unique {
+    background-color: #707070;
     color: #000;
   }
-  .btn-unique:hover {
-    background-color: #50a98a;
+.btn-unique:hover {
+    background-color: ##707070;
     color: #fff;
   }
+
+/*
+=================================================
+FONTS
+=================================================
+*/
+
+h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+li {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+/*
+=================================================
+FONTS
+=================================================
+*/
+
+.img-fluid-intro {
+  height:700px;
+  width: 800px;
+  margin: 0px;
+  padding-top: 0px;
+}
