@@ -16,11 +16,11 @@ GO TO TOP BUTTON
   }
 .btn-unique {
     background-color: #707070;
-    color: #000;
+    color: #707070;
   }
 .btn-unique:hover {
-    background-color: ##707070;
-    color: #fff;
+    background-color: #707070;
+    color: #707070;
   }
 
 /*
@@ -44,17 +44,4 @@ p {
 li {
   font-family: 'Inter', sans-serif;
   font-weight: 400;
-}
-
-/*
-=================================================
-FONTS
-=================================================
-*/
-
-.img-fluid-intro {
-  height:700px;
-  width: 800px;
-  margin: 0px;
-  padding-top: 0px;
 }
